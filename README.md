@@ -2,6 +2,8 @@
 
 Consumir una API de openweathermap.org con flask
 
+|column1_heading|column2_heading| |--|--| |hi|there|
+
 Iniciar sesión
 ![cl1](https://user-images.githubusercontent.com/97625018/172019963-5e7c27a2-5f80-420f-ae06-723ceda07c27.png)
 Main Page
